@@ -1,0 +1,5 @@
+Sessional marks error on line        4
+Sessional marks error on line        11
+Name error on line            14
+Course name error on line            19
+Indentation error at line number     9

@@ -1,0 +1,18 @@
+1  MUZAMMIL AHMED                ,BSEF19M532  
+  CGPA :3.42
+
+2  Bara Admi                     ,BCDF99H999  
+  CGPA :4.00
+
+3  UZAIR ASAD                    ,BSEF19M540  
+  CGPA :3.6 
+
+1  MUZAMMIL AHMED                ,BSEF19M532  
+  CGPA :3.42
+
+2  Bara Admi                     ,BCDF99H999  
+  CGPA :4.00
+
+3  UZAIR ASAD                    ,BSEF19M540  
+  CGPA :3.6 
+
